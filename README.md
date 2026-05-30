@@ -5,7 +5,7 @@ This repository contains my machine learning work on sentiment analysis using te
 > ⚠️ **Academic Note:** The original competition was hosted on Kaggle but has since been made private by the course authorities. This repository serves as an archive of my complete solution, methodology, and evaluation pipeline.
 
 > ⚠️ **Notebook Note:** GitHub may not render the `.ipynb` file due to a persistent `nbformat`/`nbconvert` issue. A Google Colab link is provided below for viewing and execution.
-> https://colab.research.google.com/drive/1-0WCpTlNUzdZXIrEZIrB2k4SF6mQ0bS_?usp=drive_link
+> [Open Notebook in Colab](https://colab.research.google.com/drive/1-0WCpTlNUzdZXIrEZIrB2k4SF6mQ0bS_?usp=drive_link)
 
 ---
 
